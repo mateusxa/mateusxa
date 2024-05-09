@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateus Xavier</h1>
-<h3 align="center">An Embedded System developer from Brazil</h3>
+<h3 align="center">An Software Engineer from Brazil</h3>
 
 <div align="center">
 <p>
